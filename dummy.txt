@@ -9,3 +9,4 @@ password=jsbs281@97
 JDBC_Connection = jdbc:postgresql://localhost:5432/dhis2
 connection.username = dhis
 connection.password = dhis
+test2 = Js6IDrwAIkvSY+8fSJ5bcep05ENlNvXgc+JRRr7Y
