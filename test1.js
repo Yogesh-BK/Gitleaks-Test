@@ -1,1 +1,1 @@
-console.log($ACCESS_KEY);
+console.log(process.env.ACCESS_KEY);
